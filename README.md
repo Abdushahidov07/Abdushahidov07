@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Python%20Dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Abdullo%20Abdushakhidov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5eab5b&height=225&section=header&text=Python%20Dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Abdullo%20Abdushakhidov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
 
 ## Hi 👋, I'm Abdullo Abdushakhidov
 
@@ -18,7 +18,8 @@
 
 ### Achievements:
 - 🥇 **1st Place Winner** at GDG Dushanbe Hackathon with *CrownUnity* project focused on gender equality (Django MVT).
-- 🥇 **Hackathon Champion** at Soft Club for a volunteering platform with interactive maps.
+- 🥇 **1st Place Winner** at Soft Club for a volunteering platform with interactive maps.
+- 🥈 **2nd Place Winner** at Soft Club Hackathon for backend development of *TajPlus*, a mobile development project.
 - 🌟 Experienced in creating backend systems and solving social challenges using Python, Django, DRF, and FastAPI.
 
 ---
