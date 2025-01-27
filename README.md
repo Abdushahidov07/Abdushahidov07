@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5eab5b&height=225&section=header&text=Python%20Dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Abdullo%20Abdushakhidov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6FCF6C&height=225&section=header&text=Python%20Dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Abdullo%20Abdushakhidov&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
 
 ## Hi 👋, I'm Abdullo Abdushakhidov
 
